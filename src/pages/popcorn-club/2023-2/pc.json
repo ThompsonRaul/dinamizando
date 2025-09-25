@@ -1,0 +1,326 @@
+[
+  {
+    "nome": "Aviso",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "Considerando a possibilidade de inscrição em mais de uma sessão do Popcorn Club 2023.2, indicamos que busque o seu nome em todas as sessões - resultado final e lista de excedentes -, pois uma mesma pessoa poderá ter sua vaga contemplada em uma sessão (ou mais de uma) e ficar em lista de excedentes em outra sessão.",
+          "‎ ",
+          "A retirada dos ingressos para as pessoas selecionadas ocorrerá das 16h às 19h do dia da sessão na sala do Projeto de Extensão Dinamizando o Ensino da Língua Inglesa na UESC - localizada no final do corredor de filosofia, no térreo do Pavilhão Waldir Pires."
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "PC1 - 4 de outubro - The Lion King",
+        "pessoas": [
+          "Ágata Luísa Café de Souza",
+          "Ariella Liss Ramos dos Santos",
+          "Caique Lima de Andrade",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Diovana Oliveira Santos",
+          "Edmar Arthur Bezerra Santos",
+          "Gilliane Silva Oliveira",
+          "Gracielle da Silva Mendes",
+          "Jacy Figueiredo de Lacerda",
+          "Jamilli Silva Amaral Dias",
+          "João Marcelo Farias Santana",
+          "Jobson Anthony Santos Magno",
+          "Joselita Marcelina Almeida Santos",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Laysa Aquino Souza",
+          "Letícia Tannus Cruz",
+          "Luiza Eduarda Costa Silva",
+          "Maria Clara Loduvico Nascimento de Menezes",
+          "Maria Vitória Correia Vieira",
+          "Maria Vitória Venâncio Rodrigues",
+          "Mariana Oliveira Reis Soledade",
+          "Saymon Stanley Silva de Oliveira",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC2 - 18 de outubro - The Social Network",
+        "pessoas": [
+          "Bianca Ramos Santos",
+          "Bruno Matos de Souza",
+          "Daiana Rodrigues dos Santos",
+          "Derlyn Johana Solano Lopez",
+          "Gilliane Silva Oliveira",
+          "Gracielle da Silva Mendes",
+          "Heloísa Silva Menezes",
+          "Hernan Crespo Almeida Egydio",
+          "Ian Robert Luz Pinheiro",
+          "Jamilli Silva Amaral Dias",
+          "Janiny dos Santos Lima",
+          "João Marcelo Farias Santana",
+          "Joselita Marcelina Almeida Santos",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Letícia Tannus Cruz",
+          "Luiza Eduarda Costa Silva",
+          "Maria Clara Loduvico Nascimento de Menezes",
+          "Maria Vitória Correia Vieira",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Sarah Silva Ferreira",
+          "Saymon Stanley Silva de Oliveira",
+          "Thailiny Alice Melo da Silva",
+          "Victória Ferreira Kunzendorff",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC3 - 25 de outubro - Limbo",
+        "pessoas": [
+          "Ana Clara Oliveira Ramos",
+          "André Borghi dos Santos Junior",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Derlyn Johana Solano Lopez",
+          "Geovana Porto de Oliveira",
+          "Gilliane Silva Oliveira",
+          "Jamilli Silva Amaral Dias",
+          "Janiny dos Santos Lima",
+          "João Marcelo Farias Santana",
+          "João Victor Nunes Barra dos Santos",
+          "Jobson Anthony Santos Magno",
+          "Joselita Marcelina Almeida Santos",
+          "Júlia Maia Rodrigues",
+          "Lara Perelo Lavinscsky",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Luiza Eduarda Costa Silva",
+          "Maria Clara Loduvico Nascimento de Menezes",
+          "Maria Eduarda da Silva Conceição",
+          "Maria Luiza Braga dos Reis",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Mariana Oliveira Reis Soledade",
+          "Saymon Stanley Silva de Oliveira",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC4 - 1º de novembro - Wednesday",
+        "pessoas": [
+          "Ágata Luísa Café de Souza",
+          "Alessandro Alcântara dos Santos",
+          "Alice Freitas Melo",
+          "André Borghi dos Santos Junior",
+          "Clarissa Oliveira Rocha",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Derlyn Johana Solano Lopez",
+          "Gilliane Silva Oliveira",
+          "Gracielle da Silva Mendes",
+          "Jamilli Silva Amaral Dias",
+          "João Marcelo Farias Santana",
+          "Joselita Marcelina Almeida Santos",
+          "Júlia Maia Rodrigues",
+          "Lara Perelo Lavinscsky",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Luiza Eduarda Costa Silva",
+          "Maria Luiza Braga dos Reis",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Mel Azevedo Barbosa",
+          "Milena Mateuchev Bertoni",
+          "Saymon Stanley Silva de Oliveira",
+          "Thailiny Alice Melo da Silva",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC5 - 22 de novembro - Modern Family",
+        "pessoas": [
+          "Ágata Luísa Café de Souza",
+          "Alice Freitas Melo",
+          "Ana Clara Oliveira Ramos",
+          "Bianca Ramos Santos",
+          "Clara Kruschewsky Pedreira de Andrade",
+          "Clarissa Oliveira Rocha",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Gilliane Silva Oliveira",
+          "Gracielle da Silva Mendes",
+          "Heloísa Silva Menezes",
+          "Jamilli Silva Amaral Dias",
+          "João Marcelo Farias Santana",
+          "Jobson Anthony Santos Magno",
+          "Joselita Marcelina Almeida Santos",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Luiza Eduarda Costa Silva",
+          "Maria Eduarda da Silva Conceição",
+          "Mariana Oliveira Reis Soledade",
+          "Sarah Silva Ferreira",
+          "Saymon Stanley Silva de Oliveira",
+          "Thailiny Alice Melo da Silva",
+          "Victória Ferreira Kunzendorff",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC6 - 29 de novembro - The White Tiger",
+        "pessoas": [
+          "Ana Clara Oliveira Ramos",
+          "André Borghi dos Santos Junior",
+          "Bianca Ramos Santos",
+          "Bruno Matos de Souza",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Derlyn Johana Solano Lopez",
+          "Gilliane Silva Oliveira",
+          "Heloísa Silva Menezes",
+          "Ísis Castro Porto",
+          "Jamilli Silva Amaral Dias",
+          "João Marcelo Farias Santana",
+          "Joselita Marcelina Almeida Santos",
+          "Júlia Maia Rodrigues",
+          "Lara Perelo Lavinscsky",
+          "Laura Scaldaferri Sampaio Costa",
+          "Lavinia Brasilino de Moraes",
+          "Luiza Eduarda Costa Silva",
+          "Maria Beatriz Bonfim Moreira",
+          "Maria Clara Loduvico Nascimento de Menezes",
+          "Maria Eduarda da Silva Conceição",
+          "Maria Vitória Correia Vieira",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Saymon Stanley Silva de Oliveira",
+          "Wallace Santos da Cruz"
+        ]
+      },
+      {
+        "descricao": "PC7 - 6 de dezembro - A Christmas Carol",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "André Borghi dos Santos Junior",
+          "Clara Kruschewsky Pedreira de Andrade",
+          "Daiana Rodrigues dos Santos",
+          "Danielle Cunha",
+          "Derlyn Johana Solano Lopez",
+          "Estefane Jordana Brandão Oliveira",
+          "Gilliane Silva Oliveira",
+          "Iani Campos Santos",
+          "Jamilli Silva Amaral Dias",
+          "Janiny dos Santos Lima",
+          "João Marcelo Farias Santana",
+          "Joselita Marcelina Almeida Santos",
+          "Júlia Maia Rodrigues",
+          "Júlia Souza Viana",
+          "Lara Perelo Lavinscsky",
+          "Lavinia Brasilino de Moraes",
+          "Luiza Eduarda Costa Silva",
+          "Maria Clara Loduvico Nascimento de Menezes",
+          "Maria Vitória Correia Vieira",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Saymon Stanley Silva de Oliveira",
+          "Thailiny Alice Melo da Silva",
+          "Wallace Santos da Cruz"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lista de Excedentes",
+    "tipos": [
+      {
+        "descricao": "PC1 - 4 de outubro - The Lion King",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "André Borghi dos Santos Junior",
+          "Bruno Matos de Souza",
+          "Clarissa Oliveira Rocha",
+          "Estefane Jordana Brandão Oliveira",
+          "Hernan Crespo Almeida Egydio",
+          "Iani Campos Santos",
+          "Iara Brito de Andrade",
+          "João Victor Nunes Barra dos Santos",
+          "Júlia Maia Rodrigues",
+          "Kaique Ruan Batista",
+          "Lara Perelo Lavinscsky",
+          "Maria Luiza Braga dos Reis",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Mel Azevedo Barbosa",
+          "Milena Mateuchev Bertoni"
+        ]
+      },
+      {
+        "descricao": "PC2 - 18 de outubro - The Social Network",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "André Borghi dos Santos Junior",
+          "Iani Campos Santos",
+          "Iara Brito de Andrade",
+          "Júlia Maia Rodrigues",
+          "Lara Perelo Lavinscsky"
+        ]
+      },
+      {
+        "descricao": "PC3 - 25 de outubro - Limbo",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "Iani Campos Santos",
+          "Iara Brito de Andrade",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Sabrina Nanine Miqueline dos Santos"
+        ]
+      },
+      {
+        "descricao": "PC4 - 1º de novembro - Wednesday",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "Estefane Jordana Brandão Oliveira",
+          "Iani Campos Santos",
+          "Kaique Ruan Batista"
+        ]
+      },
+      {
+        "descricao": "PC5 - 22 de novembro - Modern Family",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "André Borghi dos Santos Junior",
+          "Derlyn Johana Solano Lopez",
+          "Estefane Jordana Brandão Oliveira",
+          "Geovana Porto de Oliveira",
+          "Iani Campos Santos",
+          "Iara Brito de Andrade",
+          "João Victor Nunes Barra dos Santos",
+          "Júlia Maia Rodrigues",
+          "Júlia Souza Viana",
+          "Kaique Ruan Batista",
+          "Lara Perelo Lavinscsky",
+          "Maria Luiza Braga dos Reis",
+          "Mariana Cecilia de Carvalho Rosario",
+          "Mel Azevedo Barbosa",
+          "Milena Mateuchev Bertoni",
+          "Sabrina Nanine Miqueline dos Santos"
+        ]
+      },
+      {
+        "descricao": "PC6 - 29 de novembro - The White Tiger",
+        "pessoas": [
+          "Alexandre Pedreira da Paixão",
+          "Ana Ilza Alves de Jesus Farias",
+          "Iani Campos Santos",
+          "Iara Brito de Andrade",
+          "João Victor Nunes Barra dos Santos",
+          "Maria Luiza Braga dos Reis",
+          "Milena Mateuchev Bertoni",
+          "Sabrina Nanine Miqueline dos Santos"
+        ]
+      }
+    ]
+  }
+]

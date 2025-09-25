@@ -1,0 +1,160 @@
+[
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "CC1A - Iniciante - Terças - 16h30 - 18h",
+        "pessoas": [
+          "Amanda Souza Barros",
+          "Ana Clara Duarte Barreto",
+          "Brena Velozo Santana",
+          "Daniela Baldez Vidal Couto",
+          "Elisabete Costa Silva",
+          "Emanuelle Silva Fonseca",
+          "Fellipe Faria de Oliveira",
+          "Flávia Alessandra Rodrigues Teixeira",
+          "Iara Brito de Andrade",
+          "Jairon Gomes da Silveira Júnior",
+          "Jamille Prata Vieira Paiva Alvarez",
+          "Katielle Barbosa dos Santos",
+          "Lavinia Brasilino de Moraes",
+          "Lorraine Santos de Souza",
+          "Ludmila Machado Alexandre de Deus",
+          "Luma Marinho dos Santos",
+          "Rosana Queiroz Santos Caldas",
+          "Sócrates Jacobo Moquete Guzmán",
+          "Thaís Dourado da Silva Melo",
+          "Vinícius Lima Souza"
+        ]
+      },
+      {
+        "descricao": "CC1B - Iniciante - Quintas - 10h - 11h30",
+        "pessoas": [
+          "Anailton de Jesus Nascimento",
+          "Cacá Gonçalves",
+          "Claudia Helena Sierra Nova",
+          "Elisabete Passos dos Santos",
+          "Émerson Bernardi",
+          "Estefane Jordana Brandão Oliveira",
+          "Iasmin Ferreira da Silva",
+          "Ítalo Rosário de Freitas",
+          "Jaciane Rodrigues dos Santos",
+          "Jeferson Goldman de Andrade",
+          "Kaique Ruan Batista",
+          "Karen Leandra Sales Rodrigues Santos",
+          "Lílian Albino Nascimento",
+          "Rute Motta Silveira",
+          "Sandra Lúcia da Cunha e Silva",
+          "Sara Bispo Menezes",
+          "Stéfhanne Guimarães Santos",
+          "Valentina Paz Tobar Tobar",
+          "Vera Lucia de Mendonça silva",
+          "Wagner de Oliveira Rodrigues"
+        ]
+      },
+      {
+        "descricao": "CC2A - Intermediário - Segundas - 8h30 - 10h",
+        "pessoas": [
+          "Andreia Andrade dos Santos",
+          "Antoniel Neves Cruz",
+          "Beatriz Viana Barros",
+          "Camilly Mel Barbosa dos Santos",
+          "Carlos Luide Bião dos Reis",
+          "Celso Carlino Maria Fornari Junior",
+          "Clodoaldo Lima Pereira Júnior",
+          "Danielle Costa suares",
+          "Gabrielle Souza de Paula",
+          "Gilliane Silva Oliveira",
+          "Givanildo Silva Santos",
+          "Gracielle da Silva Mendes",
+          "Iolanda Ferreira dos Santos",
+          "Júlia Angeli da Silva",
+          "Juliane Silva de Jesus",
+          "Lêda Maria Sousa Santos",
+          "Maria Jaqueline Vasconcelos",
+          "Maria Vitória Correia Vieira",
+          "Rebekah Kathleen Vasconcelos Torres",
+          "Risete Pereira dos Santos Metz"
+        ]
+      },
+      {
+        "descricao": "CC3A - Avançado - Segundas - 10h - 11h30",
+        "pessoas": [
+          "Ângelo Gabriel Montenegro de Souza",
+          "Camila de Jesus Silva",
+          "Caroline Nascimento dos Santos",
+          "Danielle Leite Silva",
+          "Francielly de Almeida Moraes",
+          "Gabriel Cruz Borges",
+          "Gabriel Silva Almeida",
+          "Geovana Pires Lima",
+          "Giselle Dias Alves",
+          "Isabela de Santana Mendes",
+          "Isabela Logrado Fanaia Pessoa",
+          "João Marcelo Farias Santana",
+          "João Pedro Montenegro de Oliveira",
+          "João Vitor Pinheiro Reis",
+          "Leonardo Rodrigues Porto",
+          "Lucas Oliveira Lima",
+          "Maria Clara Oliveira Ribeiro Santos",
+          "Maria Eduarda da Silva Conceição",
+          "Mel Azevedo Barbosa",
+          "Sandra Maria Pinto Magina",
+          "Vinicius Augusto Takahashi Arakawa"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lista de Excedentes",
+    "tipos": [
+      {
+        "descricao": "Lista de Excedentes",
+        "pessoas": [
+          "Addriel Soares Moreira",
+          "Alice Oliveira Reis",
+          "Ana Clara Simões da Silva",
+          "Anderson da Silva Oliveira",
+          "André Luiz de Alcântara Brandão",
+          "Antonio Iderval Sodré Neto",
+          "Bruno Anuar Webi",
+          "Bruno dos Santos Reis",
+          "Caio Grako Ferreira da Silva",
+          "Caroline santos Almeida",
+          "Cristian Silva Gusmão",
+          "Derlyn Johana Solano López",
+          "Diego Ramos do Nascimento",
+          "Fernanda Sousa dos Santos",
+          "Flávio Rabelo de Morais Neto",
+          "Gisele Motta Ferreira",
+          "Henrique Daniel Resende",
+          "Hermano Cardoso de Andrade",
+          "Ian Robert Luz Pinheiro",
+          "Jessika Kauanny de Souza Eurico",
+          "João Gabriel Nascimento Weyll",
+          "João Pedro Pinto Assis",
+          "José Luiz Jesus Santana",
+          "Laila Santana Gomes",
+          "Lara Perelo Lavinscsky",
+          "Laura Scaldaferri",
+          "Leonardo Santos Lemos",
+          "Lorena Alves Moreira",
+          "Lueny de Souza Rodrigues",
+          "Maria Cecília Galvão Sá",
+          "Maria Eduarda Andrade Carneiro",
+          "Mariana Cecilia de Carvalho",
+          "Michelle Alejandra Estévez Haro",
+          "Naickely Monteiro Fernandes",
+          "Náira Vitória Nascimento Alves dos Santos",
+          "Pedro Souza Santos Medeiros",
+          "Raquel Ferreira dos Santos",
+          "Saray Carolina Carrillo Paternina",
+          "Tarcísio Miguel dos Santos Magalhães",
+          "Vitor Hugo Yukio Fugivala",
+          "Vitória Cristina Ferreira Oliveira",
+          "Zilma dos Santos Félix Vasconcelos"
+        ]
+      }
+    ]
+  }
+]

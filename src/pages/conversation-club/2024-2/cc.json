@@ -1,0 +1,57 @@
+[
+  {
+    "nome": "Período de Inscrição",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "O período para inscrições será das 8h do dia 10 de setembro às 22h do dia 13 de setembro de 2024.",
+          "Link do formulário de inscrição: https://forms.gle/6Hf2YjS5ynznTHSs5"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "CC1A - Intermediário - Terças - 13h30 – 14h30",
+        "pessoas": [
+          "Allaramadji Béatrice Ndoubabe",
+          "João Felipe Lourido de Souza",
+          "Juan Andrés Rodríguez Chaparro",
+          "Kaique Félix Silva",
+          "Kenia Santana de Oliveira Louzada",
+          "Poliana Gonçalves Guimarães"
+        ]
+      },
+      {
+        "descricao": "CC1B - Intermediário - Quintas - 13h30 – 14h30",
+        "pessoas": [
+          "Ana Clara Barbosa de Souza",
+          "Breno Gonçalves Pirôpo",
+          "Gabriel dos Santos Pires",
+          "Gabriel Souza Rezende",
+          "Geovana Pires Lima",
+          "Jéssica Rocha Caires",
+          "Larissa Machado Maia",
+          "Laynne da Cruz Barbosa",
+          "Maria Luiza Oliva Santos"
+        ]
+      },
+      {
+        "descricao": "CC2A - Avançado - Quartas - 13h30 – 14h30",
+        "pessoas": [
+          "Artur Henrique Pereira Santos",
+          "Beatriz Gomes Farias",
+          "Bruna Regina Corrêa Geraldo",
+          "Joabe Ferreira da Silva Filho",
+          "Lorenzza Grecco Bernardes",
+          "Marco Túlio Macêdo Oliveira dos Santos",
+          "Raoni Andrade Pires",
+          "Zahir Sousa Cruz Matos Cardoso"
+        ]
+      }
+    ]
+  }
+]

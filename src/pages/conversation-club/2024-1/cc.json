@@ -1,0 +1,179 @@
+[
+  {
+    "nome": "Período de Inscrição",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "O período para inscrições será das 8h do dia 11 de março às 22h do dia 14 de março de 2024."
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "CC1A - Iniciante - Terças - 8h30 - 10h",
+        "pessoas": [
+          "Alan Kleber Santos de Almeida",
+          "Amanda Souza Araújo",
+          "Andreza de Jesus Celestino Souza",
+          "Bartolomeu Neves Dias",
+          "Bethânia Aguilar Gonçalves",
+          "Caio Silva Ramos",
+          "Dainára Carla Pereira Cassiano",
+          "Diana Alexia Santos de Jesus",
+          "Ednaldo Conceição de Souza",
+          "Eduardo Marques Ramos",
+          "Fernanda Vitória Nascimento de Oliveira",
+          "Glenda Suyapa Castillo Contreras",
+          "Hellen Gabrielle Silva Rosa",
+          "Henrique Barreto Pereira",
+          "Hugo Cardoso da Cruz",
+          "Isabelle Nepomuceno Teixeira",
+          "Jennyffer Andreina Reyes Polanco",
+          "José Norberto Santos Matos",
+          "Julieta Rangel de Oliveira",
+          "Larissa Leal Amorim",
+          "Marco Túlio Macêdo Oliveira dos Santos",
+          "Maria Alice Teixeria de Luna Freire",
+          "Maria de Lourdes Pereira Lima Neta",
+          "Mirian Thereza Cardoso de Araújo",
+          "Nelson Manoel dos Santos Neto",
+          "Rebeca Mata Prazeres",
+          "Sabrina Gama de Oliveira",
+          "Stephanie dos Santos Silva",
+          "Vanessa Thamyris Carvalho dos Santos",
+          "Vivaldo Ferreira de Souza Neto"
+        ]
+      },
+      {
+        "descricao": "CC1B - Iniciante - Terças  - 13h30 - 15h",
+        "pessoas": [
+          "Adrielle Emília Santos Cardoso",
+          "Ailton Pinheiro Lobo",
+          "Ana Clara Lima Pereira",
+          "Ana Júlia Siqueira do Nascimento",
+          "Antonio Conceição Moura",
+          "Diego Gomes de Jesus",
+          "Éverton Santana Freire",
+          "Gabriel Luarlley Maia Vasconcelos",
+          "Hérick Pachêco Rodrigues",
+          "Laércio Cardozo Borges",
+          "Lorena Souza Daltro",
+          "Lucimara Souza Santos",
+          "Luiz Carlos do Nascimento França",
+          "Marcos Alexandre Rodrigues Oliveira",
+          "Marcos Vinícius Passos Santos",
+          "Maria Eduarda Martins Chagas de Sousa",
+          "Maria Eduarda Souza Ferreira",
+          "Naiana Souza dos Santos Costa",
+          "Natália Alves Gomes da Silva",
+          "Rilary Kelly Andrade Moreira",
+          "Sandra Marcela Arango Zuleta",
+          "Thaís Santos Farias",
+          "Thaiza Varjão dos Santos Dias Chagas",
+          "Thiago Mendes de Freitas",
+          "Yasmin Sousa Batista"
+        ]
+      },
+      {
+        "descricao": "CC2A - Intermediário-Avançado - Terças - 10h - 11h30",
+        "pessoas": [
+          "Adryan Vinícius Oliveira Almeida",
+          "Angie Xiomara Saboyá Benavidez",
+          "Brenda Evaristo Reis Santos",
+          "Daniele Viroli Barreto Caldas",
+          "Ewerthon de Oliveira Ramos",
+          "Gabriel Cruz Borges",
+          "Gabriela Souza Alves",
+          "Geovana Pires Lima",
+          "Gilliane Silva Oliveira",
+          "Jéssika Kauanny de Souza Eurico",
+          "Julia Oliveira Costa",
+          "Laís Santos Gomes",
+          "Larissa Pereira Oliveira Galo",
+          "Laura Scaldaferri",
+          "Lavínia Batista Martins de Araújo",
+          "Laysa Reis Trindade",
+          "Leonardo Rodrigues Porto",
+          "Leticia Dutra Figueiredo",
+          "Maria Eduarda Andrade Marques",
+          "Maria Vitória Correia Vieira",
+          "Marina de Miranda Costa",
+          "Mayana de Cássia Kamiya",
+          "Samuel Leandro Oliveira de Mattos",
+          "Tatiane Benvenuti",
+          "Wanessa Alves Santos"
+        ]
+      },
+      {
+        "descricao": "CC2B – Intermediário-Avançado – Terças – 15h – 16h30",
+        "pessoas": [
+          "Adriane Ferreira de Miranda",
+          "Alexya Esteves dos Santos Rodrigues de Jesus",
+          "Angelica Paola Gonzalez Lozada",
+          "Caroline Guilherme Santos",
+          "Gabriel Victor Pina Rodrigues",
+          "Geanne Carla Novais Pereira",
+          "Geovanna de Jesus Rodrigues Nambu",
+          "Giulia Alice Andrade Santana",
+          "Iara Brito de Andrade",
+          "Ibyla Sannara de Oliveira Souza",
+          "João Victor do Nascimento Primo",
+          "Jorge Mario Herrera Lopera",
+          "Júlia Farias Lemos dos Santos",
+          "Kaiala de Jesus Santos",
+          "Lanna Moraes Rosa de Almeida",
+          "Lays Silva Santos",
+          "Lorenzza Grecco Bernardes",
+          "Marcelo Bomfim da Silva",
+          "Nicole Cristina Marcelino dos Reis",
+          "Paola Pereira das Neves Snoeck",
+          "Paulo Daniel Ribeiro da Conceição",
+          "Rafaella Santana dos Santos",
+          "Roberta Siqueira do Nascimento",
+          "Susana Marrero Iglesias",
+          "Tainá Souza Coelho",
+          "Thaís Sampaio Silva",
+          "Thaysa Vitória Teles Fontes",
+          "Zahir Sousa Cruz Matos Cardoso"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lista de Excedentes",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "Anna Carolina Santos Carvalho",
+          "Arthur Henrique Silva Rocha",
+          "Artur Henrique Pereira Santos",
+          "Bruna Ribeiro Macedo",
+          "Caio Vinícius São Pedro dos Santos",
+          "Carolina Santos Silva de Almeida",
+          "Gabriel dos Santos Pires",
+          "Gabriel Magalhães de Oliveira Garrido",
+          "Gabriel Santos Almeida",
+          "Hingrid Souza Rocha Queiroz",
+          "Iago Santos de Oliveira",
+          "Jeanpierre Rodríguez Mirano",
+          "Jéssica Meira Costa",
+          "João Paulo Matos Dias Gomes",
+          "Juan David Huertas Ramos",
+          "Kauã Santos Freitas",
+          "Liriel Colares Araújo",
+          "Luiz Felipe do Rosário Alves Silva",
+          "Matheus Amorim da Rocha Almeida",
+          "Matheus Santos dos Santos",
+          "Nathália Monteiro Archirusal",
+          "Palmira Lino dos Santos Neta",
+          "Vinicius Augusto da Silva Vasconcelos Nunes"
+        ]
+      }
+    ]
+  }
+]

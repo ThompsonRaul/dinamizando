@@ -1,0 +1,53 @@
+[
+  {
+    "nome": "Utilizador proficiente",
+    "tipos": [
+      {
+        "descricao": "C2",
+        "pessoas": [
+          "É capaz de compreender, sem esforço, praticamente tudo o que ouve ou lê. É capaz de resumir as informações recolhidas em diversas fontes orais e escritas, reconstruindo argumentos e fatos de um modo coerente. É capaz de se exprimir espontaneamente de modo fluente e com exatidão, sendo capaz de distinguir finas variações de significado em situações complexas."
+        ]
+      },
+      {
+        "descricao": "C1",
+        "pessoas": [
+          "É capaz de compreender um vasto número de textos longos e exigentes reconhecendo os seus significados implícitos. É capaz de se exprimir de forma fluente e espontânea sem precisar de procurar muito as palavras. É capaz de usar a lingua de modo flexível e eficaz para fins sociais acadêmicos e profissionais. Pode exprimir-se sobre temas complexos, de forma clara e bem estruturada, manifestando o domínio de mecanismos de organização, de articulação e de coesão do discurso."
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Utilizador independente",
+    "tipos": [
+      {
+        "descricao": "B2",
+        "pessoas": [
+          "É capaz de compreender as ideias principais em textos complexos sobre assuntos concretos e abstratos incluindo discussões técnicas na sua área de especialidade. É capaz de comunicar com um certo grau de espontaneidade e de à-vontade com falantes nativos, sem que haja tensão de parte a parte. É capaz de exprimir-se de modo claro e pormenorizado sobre uma grande variedade de temas e explicar um ponto de vista sobre um tema da atualidade, expondo as vantagens e os inconvenientes de várias possibilidades."
+        ]
+      },
+      {
+        "descricao": "B1",
+        "pessoas": [
+          "É capaz de compreender as questões principais quando é usada uma linguagem clara e estandardizada e os assuntos lhe são familiares (temas abordados no trabalho, na escola e nos momentos de lazer, etc.) É capaz de lidar com a maioria das situações encontradas na região onde se fala a língua-alvo. É capaz de produzir um discurso simples e coerente sobre assuntos que lhe são familiares ou de interesse pessoal. Pode descrever experiências e eventos sonhos, esperanças e ambições, bem como expor brevemente razões e justificações para uma opinião ou um projeto."
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Utilizador elementar",
+    "tipos": [
+      {
+        "descricao": "A2",
+        "pessoas": [
+          "É capaz de compreender frases isoladas e expressões frequentes relacionadas com áreas de prioridade imediata (p, ex: informações pessoais e familiares simples, compras meio circundante). É capaz de comunicar em tarefas simples e em rotinas que exigem apenas uma troca de informação simples e direta sobre assuntos que lhe são familiares e habituais. Pode descrever de modo simples a sua formação, o meio circundante e ainda referir assuntos relacionados com necessidades imediatas."
+        ]
+      },
+      {
+        "descricao": "A1",
+        "pessoas": [
+          "É capaz de compreender e usar expressões familiares e quotidianas, assim como enunciados muito simples que visam satisfazer necessidades concretas. Pode apresentar-se e apresentar outros e é capaz de fazer perguntas e dar respostas sobre aspectos pessoais como, por exemplo, o local onde vive, as pessoas que conhece e as coisas que tem. Pode comunicar de modo simples, se o interlocutor falar lenta e distintamente e se mostrar cooperante."
+        ]
+      }
+    ]
+  }
+]

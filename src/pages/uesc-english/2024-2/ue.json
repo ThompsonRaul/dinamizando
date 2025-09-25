@@ -1,0 +1,191 @@
+[
+  {
+    "nome": "Período de Inscrição",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "O período para inscrições será das 8h do dia 10 de setembro às 22h do dia 13 de setembro de 2024.",
+          "Link do formulário de inscrição: https://forms.gle/6Hf2YjS5ynznTHSs5"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "UE0A - Pré-iniciante - Terças - 14h30 – 16h30",
+        "pessoas": [
+          "Adriel de Jesus Nascimento",
+          "Aksa Lorena Jesus dos Santos",
+          "Alicia Alejandrina Jara da Silva",
+          "Amanda Nathalia Pinheiro Venancio Santos",
+          "Ana Luiza Brito Pereira",
+          "Anna Júlia Gomes de Oliveira",
+          "Daiana Dias dos Santos",
+          "Éric Marcial de Araujo",
+          "José Filipe Kruschewsky Santos",
+          "Laysa Ellen de Souza Chagas",
+          "Liggia Oliveira da Costa",
+          "Luciana Barbosa Cruz da Costa",
+          "Maisa Conceição Duarte",
+          "Márcio A Ribeiro",
+          "Maria Isabelle Palma Nascimento",
+          "Mariana Ribeiro dos Santos",
+          "Maristela Azevedo da Silva Oliveira",
+          "Matheus Felipe Lopes dos Santos",
+          "Naiara Almeida de Assis",
+          "Naiara Ramos Costa",
+          "Raisa Emanuela de Alvim Nogueira",
+          "Samanta Santana da Silva",
+          "Vanessa Evangelista de Souza",
+          "Viviany Souza da Silva",
+          "Weslley Jerônimo Sousa Araújo"
+        ]
+      },
+      {
+        "descricao": "UE0B - Pré-iniciante - Quartas - 8h – 10h",
+        "pessoas": [
+          "Ákylla Sandy Jesus dos Santos",
+          "Ana Karoline Nunes da Silva",
+          "Annielle Ramos Marques",
+          "Bruna Laiana Batista Coutinho",
+          "Eric Araujo Duarte",
+          "Fernanda Alexandre Silva",
+          "Jéssica Meira Costa",
+          "Julio Santos Souza",
+          "Keila Ramos de Sousa",
+          "Lidiane Santos Oliveira",
+          "Maiara dos Santos Sousa",
+          "Márcia Santos de Oliveira Araújo",
+          "Maria Alexsandra Teixeira Moreira",
+          "Maria Aparecida Ferreira Silva",
+          "Micaelly Almeida Barbosa",
+          "Rosangela Moreira Andrade",
+          "Zaira Viana Dantas"
+        ]
+      },
+      {
+        "descricao": "UE1A - Iniciante - Quartas - 14h30 – 16h30",
+        "pessoas": [
+          "Alaide Bittencourt Nascimento",
+          "Ana Paula da Silva Costa",
+          "Anna Karenina Santos da Silva Moura",
+          "Cristiana Mayra Moreira Lessa",
+          "Cristiane Bernardino dos Santos",
+          "Dayana Carmo Santos",
+          "Eduarda Vitória dos Santos Costa",
+          "Fernanda Von Beauvais da Silva",
+          "Gilberto Pereira dos Santos Neto",
+          "Giulia Andrade de Moura Santos",
+          "Giulia Barreto Barreto",
+          "Izana Rebecca Guimarães Granja",
+          "Jessica Santos Evangelista",
+          "Kátia Rosane dos Santos Batista",
+          "Letícia Oliveira Couto Simões",
+          "Marcos Alex de Souza",
+          "Maria Angelica Santana Borges",
+          "Maria de Fatima Souza Soledade",
+          "Milena da Silva Cavalcante",
+          "Paulo Roberto Ornelas da Silva",
+          "Rayssa Santos Kruschewsky",
+          "Ruth Damares de Carvalho Santos",
+          "Thales Barreto dos Santos",
+          "Thiara Camboim Santana",
+          "Wanatha Porto Souza"
+        ]
+      },
+      {
+        "descricao": "UE2A - Pré-intermediário - Quintas - 14h30 – 16h30",
+        "pessoas": [
+          "Arthur Ramos Vieira",
+          "Dandara Gomes Félix",
+          "Giovanna Mel Ramos de Jesus",
+          "Gustavo Santos de Souza",
+          "Maristela Midlej Silva de Araújo Veloso",
+          "Mayra Honorato Santos Araújo",
+          "Thaiza Varjão dos Santos Dias Chagas"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Listas de Espera",
+    "tipos": [
+      {
+        "descricao": "Lista de Espera – UE0A",
+        "pessoas": [
+          "Allane Duarte Silva",
+          "Angela Vieira Angelo",
+          "Anna Beatriz Conceição dos Santos",
+          "Beatriz Borges de Oliveira",
+          "Brena Andrade Oliveira",
+          "Daniele Santos de Sousa",
+          "Emanuelle Cristine Borges dos Santos",
+          "Evelin Silva Valença",
+          "Fernanda Alves Rebouças Lessa",
+          "Gabriel Gomes Ribeiro",
+          "Gabrielle Bomfim Carvalho",
+          "Guilherme Marques dos Reis Silva",
+          "Isabelle da Silva Santos",
+          "Isla Gabrielly Santos Cerqueira",
+          "Itiel Barbosa da Costa",
+          "João Sotero do Vale Júnior",
+          "João Victor Alves de Carvalho",
+          "Kércia Nascimento Santos Luz",
+          "Leonardo Silveira Gomes",
+          "Lizandra Bezerra Pimentel",
+          "Luís Felipe Damasceno Silva",
+          "Marta de Oliveira Nascimento",
+          "Nathália Monteiro Archirusal",
+          "Riquelmo Nogueira Nery"
+        ]
+      },
+      {
+        "descricao": "Lista de Espera – UE1A",
+        "pessoas": [
+          "Aíla Oliveira da Silva",
+          "Ana Júlia Vasconcelos Santos",
+          "Anita Alves Martins",
+          "Anna Beatriz Carilo de Souza",
+          "Arthur Almeida Silva",
+          "Arthur Araujo Souza",
+          "Arthur Lopes Capinan Sena",
+          "Brenno Santos Florêncio",
+          "Carla Souza Santos",
+          "Celine Géssica Sá Rodrigues",
+          "Christiana dos Santos Azevedo",
+          "Débora de Jesus Nascimento",
+          "Flávia Gaspar Fiel",
+          "Gabriel Pina Cardoso",
+          "Gabriella Almeida de Santana",
+          "Gabrielly Victória Leal Souza do Amorim",
+          "Giovanna Evelyn Alves Santos",
+          "Jaciane Aparecida Jesus da Cruz",
+          "Jetro Lopes Alves",
+          "Jhenyfer Ribeiro dos Santos",
+          "João Augusto Furtunato Santana Estival",
+          "João Carvalho de Oliveira Neto",
+          "João Vitor Santos de Oliveira",
+          "Jorge Isaías dos Santos",
+          "José Luiz Jesus Santana",
+          "Kely Eloiza Reges de Oliveira",
+          "Kemilly Jovelina Rodrigues dos Santos",
+          "Lorena Andrade de Araújo",
+          "Marcos de Oliveira Rodrigues",
+          "Marcos Santana Santos Júnior",
+          "Maria Cândida Mucugê de Jesus",
+          "Maria Eduarda de Mattos Maciel",
+          "Matheus Santos Pedra Behrmann",
+          "Monique do Nascimento Santos",
+          "Nadson de Jesus Oliveira",
+          "Rafael Santos Gomes",
+          "Raquel Lemos de Andrade Sousa",
+          "Renald Santos de Oliveira",
+          "Vinicius Antunes Bahia"
+        ]
+      }
+    ]
+  }
+]

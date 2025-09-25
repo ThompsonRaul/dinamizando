@@ -1,0 +1,225 @@
+[
+  {
+    "nome": "Aviso",
+    "tipos": [
+      {
+        "descricao": "",
+        "pessoas": [
+          "Considerando a possibilidade de inscrição em mais de uma sessão do Popcorn Club 2024.1, indicamos que busque o seu nome em todas as sessões - resultado final e lista de excedentes -, pois uma mesma pessoa poderá ter sua vaga contemplada em uma sessão (ou mais de uma) e ficar em lista de excedentes em outra sessão."
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Resultado Final",
+    "tipos": [
+      {
+        "descricao": "PC1 - 25 de Abril - Moonlight",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Erisson Silva Souza",
+          "Marcela Santos de Matos",
+          "Juliana Santos Ribeiro",
+          "Rafaella Santana dos Santos",
+          "Fellipe Faria de Oliveira",
+          "Naickely Monteiro Fernandes",
+          "Maria Vitória Venâncio Rodrigues",
+          "Diovana Oliveira Santos",
+          "Letícia Carvalho Fraga",
+          "Luis Pedro Goes Oliveira Almeida",
+          "Demétrio Alves de Oliveira",
+          "Marcelo Bomfim da Silva",
+          "Mariana Cecília de Carvalho Rosario",
+          "Jeniffer de Barros Cabral",
+          "Diana Ferreira Campos Schroeder",
+          "Marcos Vinicius Soares de Jesus",
+          "Emily Matos dos Santos",
+          "Gustavo Assunção Soares",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Erick Almeida Santos de Jesus",
+          "Ana Beatriz dos Santos Leal",
+          "Gustavo Santos de Oliveira",
+          "Tainá Souza Coelho"
+        ]
+      },
+      {
+        "descricao": "PC2 - 2 de maio - 13 Going On 30",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Juliana Santos Ribeiro",
+          "Rafaella Santana dos Santos",
+          "Fellipe Faria de Oliveira",
+          "Jessica Rocha Magalhães",
+          "Naickely Monteiro Fernandes",
+          "Maria Vitória Venâncio Rodrigues",
+          "Diovana Oliveira Santos",
+          "Laysa Aquino Souza",
+          "Edmar Arthur Bezerra Santos",
+          "Ariella Liss Ramos dos Santos",
+          "Maria Amélia Leite Alves dos Anjos",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Júllia de Souza Belmiro",
+          "Letícia Carvalho Fraga",
+          "Luis Pedro Goes Oliveira Almeida",
+          "Demétrio Alves de Oliveira",
+          "Marcelo Bomfim da Silva",
+          "Gabriel Nobre Nascimento",
+          "Mariana Cecília de Carvalho Rosario",
+          "Emanuel Humberto Menezes Cerqueira",
+          "Julia Santos Almeida",
+          "Marcos Vinicius Soares de Jesus",
+          "Emily Matos dos Santos"
+        ]
+      },
+      {
+        "descricao": "PC3 - 9 de maio - Lion",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Rafaella Santana dos Santos",
+          "Fellipe Faria de Oliveira",
+          "Naickely Monteiro Fernandes",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Letícia Carvalho Fraga",
+          "Ricardo Lucas Novaes",
+          "Marcelo Bomfim da Silva",
+          "Mariana Cecília de Carvalho Rosario",
+          "Emily Matos dos Santos",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Matheus Santos Cardoso",
+          "Ana Beatriz dos Santos Leal",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro",
+          "João Augusto Furtunato Santana Estival"
+        ]
+      },
+      {
+        "descricao": "PC4 - 16 de maio - Midnight Cowboy",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Rafaella Santana dos Santos",
+          "Fellipe Faria de Oliveira",
+          "Naickely Monteiro Fernandes",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Ricardo Lucas Novaes",
+          "Marcelo Bomfim da Silva",
+          "Mariana Cecília de Carvalho Rosario",
+          "Julia Santos Almeida",
+          "Emily Matos dos Santos",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Pricila Pereira dos Santos",
+          "Tainá Souza Coelho",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro",
+          "João Augusto Furtunato Santana Estival"
+        ]
+      },
+      {
+        "descricao": "PC5 - 23 de maio - To Kill A Mockingbird",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Juliana Santos Ribeiro",
+          "Rafaella Santana dos Santos",
+          "Fellipe Faria de Oliveira",
+          "Naickely Monteiro Fernandes",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Ricardo Lucas Novaes",
+          "Marcelo Bomfim da Silva",
+          "Mariana Cecília de Carvalho Rosario",
+          "Jeniffer de Barros Cabral",
+          "Julia Santos Almeida",
+          "Marcos Vinicius Soares de Jesus",
+          "Emily Matos dos Santos",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Matheus Santos Cardoso",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro",
+          "João Augusto Furtunato Santana Estival"
+        ]
+      },
+      {
+        "descricao": "PC6 - 6 de junho - Everything Everywhere All At Once",
+        "pessoas": [
+          "Victoria Khadija Figueiredo Santos",
+          "Juliana Santos Ribeiro",
+          "Fellipe Faria de Oliveira",
+          "Jessica Rocha Magalhães",
+          "Naickely Monteiro Fernandes",
+          "Laysa Aquino Souza",
+          "Edmar Arthur Bezerra Santos",
+          "Ariella Liss Ramos dos Santos",
+          "Maria Amélia Leite Alves dos Anjos",
+          "Kaique Ruan Batista",
+          "Milena Mateuchev Bertoni",
+          "Júllia de Souza Belmiro",
+          "Ricardo Lucas Novaes",
+          "Demétrio Alves de Oliveira",
+          "Marcelo Bomfim da Silva",
+          "Gabriel Nobre Nascimento",
+          "Mariana Cecília de Carvalho Rosario",
+          "Emanuel Humberto Menezes Cerqueira",
+          "Julia Santos Almeida",
+          "Marcos Vinicius Soares de Jesus",
+          "Emily Matos dos Santos",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Pricila Pereira dos Santos",
+          "Larissa Machado Maia"
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Lista de Excedentes",
+    "tipos": [
+      {
+        "descricao": "PC1 - 25 de Abril - Moonlight",
+        "pessoas": [
+          "Vinicius de Santana Brandão Ferreira",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro",
+          "Vinicius de Santana Brandão Ferreira",
+          "Milene Silva de Andrade"
+        ]
+      },
+      {
+        "descricao": "PC2 - 2 de maio - 13 Going On 30",
+        "pessoas": [
+          "Gustavo Assunção Soares",
+          "Lucas Santos Barbosa",
+          "Artur Henrique Pereira Santos",
+          "Erick Almeida Santos de Jesus",
+          "Pricila Pereira dos Santos",
+          "Gustavo Santos de Oliveira",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro"
+        ]
+      },
+      {
+        "descricao": "PC6 - 6 de junho - Everything Everywhere All At Once",
+        "pessoas": [
+          "Gustavo Santos de Oliveira",
+          "Tainá Souza Coelho",
+          "Vinicius de Santana Brandão Ferreira",
+          "Mariana Crocamo Freire",
+          "Ketely Santos Souza",
+          "Gabriel Gomes Ribeiro",
+          "Vinicius de Santana Brandão Ferreira",
+          "Milene Silva de Andrade"
+        ]
+      }
+    ]
+  }
+]
