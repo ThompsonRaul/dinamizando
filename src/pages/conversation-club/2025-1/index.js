@@ -4,7 +4,7 @@ import DinamizandoNavbar from "@/components/Navbar/DinamizandoNavbar";
 import DinamizandoAccordion from "@/components/Accordion/DinamizandoAccordion";
 import DinamizandoFooter from "@/components/Footer/DinamizandoFooter";
 
-import imgURL from "../../utils/images/26-1/CCCT.png";
+import imgURL from "../../../utils/images/25-1/CCCT.png";
 
 const imgAlt = "Horários de aula do Conversation Club 2025.1";
 const jsonFirstAccordion = require("./fac.json");
@@ -13,10 +13,10 @@ const CC = () => {
   return (
     <>
       <Head>
-        <title>Conversation Club 2026.1</title>
+        <title>Conversation Club 2025.1</title>
         <meta
           name="description"
-          content="Página do Conversation Club 2026.1 do Dinamizando"
+          content="Página do Conversation Club 2025.1 do Dinamizando"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
